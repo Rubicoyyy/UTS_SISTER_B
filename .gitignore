@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# SQLite DB
+data/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
